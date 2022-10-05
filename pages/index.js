@@ -5,7 +5,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      Cody McCode Face
+      <h1 className="text-4xl text-red-500">
+        Cody McCode Face
+      </h1>
     </div>
   )
 }
